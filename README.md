@@ -5,7 +5,7 @@ Try
 ```
 sage Refined-estimate/smaugt-bkz.sage
 ```
-to simulate BKZ or use pre-computed BKZ values for gates-count estimation: 
+to simulate BKZ or use pre-computed BKZ predictions for gates-count estimation: 
 ```
 python3 Refined-estimate/smaugt-gates.py
 ```
