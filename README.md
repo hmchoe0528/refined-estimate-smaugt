@@ -1,3 +1,5 @@
+Refined SMAUG-T's security estimation based on https://github.com/lducas/leaky-LWE-Estimator/tree/NIST-round3
+
 # A Sage Toolkit to attack and estimate the hardness of LWE with Side Information
 
 This repository contains the artifacts associated to the article
